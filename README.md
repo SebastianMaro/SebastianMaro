@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SebastianMaro
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning API and webscraping
+- 📫 How to reach me: sebastianpmaro@gmail.com
 
 <!---
 SebastianMaro/SebastianMaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
