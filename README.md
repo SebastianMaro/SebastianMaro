@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SebastianMaro
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning API and webscraping
+- 👀 I’m interested in React and Spring
+- 🌱 I’m currently learning React-native
 - 📫 How to reach me: sebastianpmaro@gmail.com
 
 <!---
